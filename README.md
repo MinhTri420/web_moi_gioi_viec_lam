@@ -1,6 +1,6 @@
-# web_moi_gioi_viec_lam
-Trang web môi giới việc làm
-Dự án vì cộng đồng
+# WEB MÔI GIỚI VIỆC LÀM
+# Trang web môi giới việc làm
+# Dự án vì cộng đồng
 Sơ đồ thực thể Cơ sở dữ liệu
 
 1. Đối tượng sử dụng
