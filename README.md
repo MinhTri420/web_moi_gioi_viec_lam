@@ -1,14 +1,13 @@
 # web_moi_gioi_viec_lam
-
 Trang web môi giới việc làm
 Dự án vì cộng đồng
 Sơ đồ thực thể Cơ sở dữ liệu
 
-Đối tượng sử dụng
-Quản trị viên
-Nhà tuyển dụng
-Ứng viên
-Chức năng từng đối tượng
+1. Đối tượng sử dụng
+- Quản trị viên
+- Nhà tuyển dụng
+- Ứng viên
+- Chức năng từng đối tượng
 A. Quản trị viên
 
 Quản lý trang thông tin: banner, giới thiệu,…
