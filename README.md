@@ -26,8 +26,12 @@ C. Ứng viên
 - Đăng CV
 - Xem danh sách công việc (có thể ghim và còn lại sắp xếp ngẫu nhiên)
 - Báo cáo vi phạm: công ty, cá nhân (lừa đảo, spam, không liên hệ được, thông tin bài tuyển dụng sai)
-### Phân tích chức năng
+
+
+### Phân tích chức năng 
+
 - Đăng bài tuyển dụng
+
 | Các tác nhân	| Nhà tuyển dụng |
 | ----- | ----- |
 | Mô tả	| Đăng bài tuyển dụng |
