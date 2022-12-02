@@ -1,26 +1,27 @@
 # WEB MÔI GIỚI VIỆC LÀM
 ## Trang web môi giới việc làm
 ### Dự án vì cộng đồng
-Sơ đồ thực thể Cơ sở dữ liệu
+Sơ đồ thực thể <br>
+- Cơ sở dữ liệu
 
 1. Đối tượng sử dụng
 - Quản trị viên
 - Nhà tuyển dụng
 - Ứng viên
-- Chức năng từng đối tượng
-A. Quản trị viên
+- Chức năng từng đối tượng <br>
+## A. Quản trị viên
 
 - Quản lý trang thông tin: banner, giới thiệu,…
 - Quản lý người dùng
 - Quản lý file: JD, CV
 - Quản lý bài đăng công việc
-- Quản lý báo cáo
-B. Nhà tuyển dụng
+- Quản lý báo cáo <br>
+## B. Nhà tuyển dụng
 
 - Quản lý bài tuyển dụng
 - Tìm kiếm CV
-- Chỉnh sửa thông tin cá nhân (thuộc công ty nào, thông tin liên hệ)
-C. Ứng viên
+- Chỉnh sửa thông tin cá nhân (thuộc công ty nào, thông tin liên hệ)<br>
+## C. Ứng viên
 
 - Tìm kiếm công việc (công ty, vị trí, mức lương, địa điểm, ngôn ngữ, trình độ, yêu cầu bằng cấp - chứng chỉ, số lượng)
 - Đăng CV
